@@ -18,9 +18,9 @@ ECardify is an Android app that allows users to create and send beautifully anim
 
 ## 📸 Screenshots
 
-| Home Screen | Eid Card | Text-to-Speech |
-|-------------|----------|----------------|
-| ![Home](Home.png) | ![Message](Msg.png) | ![Preview](Preview.png) | ![Gift Card](GiftCard.png)
+| Home Screen | Message | Preview | | Gift Card |
+|-------------|---------|-----------|-----------|
+| ![Home](Home.png) | ![Message](Msg.png) | ![Preview](Preview.png) | ![Gift Card](GiftCard.png) |
 
 > _Replace screenshots with your actual images._
 
