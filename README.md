@@ -24,9 +24,7 @@ ECardify is an Android app that allows users to create and send beautifully anim
 |         Preview        |          Gift Card         |
 |------------------------|----------------------------|
 |![Preview](Preview.png) | ![Gift Card](GiftCard.png) |
-> _Replace screenshots with your actual images._
 
----
 
 ## 🛠 Built With
 
