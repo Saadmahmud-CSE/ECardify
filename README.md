@@ -23,7 +23,7 @@ ECardify is an Android app that allows users to create and send beautifully anim
 | ![Home](Home.png) | ![Message](Msg.png) |
 |         Preview         |          Gift Card         |
 | ![Preview](Preview.png) | ![Gift Card](GiftCard.png) |
-
+---
 
 ## 🛠 Built With
 
@@ -35,5 +35,4 @@ ECardify is an Android app that allows users to create and send beautifully anim
 
 ---
 
-## 📂 Folder Structure
 
